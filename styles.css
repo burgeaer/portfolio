@@ -1,16 +1,14 @@
 body {
   background:url("red-orange-waves2.jpg");
 }
-h1 {
-  opacity: 0.0;
-  font-size: 1px;
-}
 #project_title {
   font-family: Arial;
   font-weight: bold;
   font-size: 36px;
   color: white;
   text-shadow: 2px 2px 4px #000000;
+  margin-left: 20px;
+  padding: 20px;
 }
 #container1 {
   width: 600px;
