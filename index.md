@@ -6,7 +6,7 @@
   <h2 id="project_title">Aeryn Burgess Web Developer</h2>
    <div id="container1">
    <nav>
-     <a class="nav" href="index.md">Home</a> /
+     <a class="nav" href="index.html">Home</a> /
      <a class="nav" href="about.md">About</a> /
      <a class="nav" href="resume.md">Resume & Contact</a> /
    </nav>
