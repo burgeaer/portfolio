@@ -1,0 +1,42 @@
+body {
+  background:url("red-orange-waves2.jpg");
+}
+h1 {
+  opacity: 0.0;
+  font-size: 1px;
+}
+#project_title {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 36px;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+#container1 {
+  width: 600px;
+}
+h3 {
+  color: blue;
+}
+p {
+  color: black;
+  font-family:'Century Gothic';
+  font-size: 18px;
+  font-weight: bold;
+}
+nav {
+  list-style: none;
+  color: white;
+  word-spacing: 10px;
+}
+.nav {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+}
+.nav:hover{
+  text-decoration: none;
+  font-size: 18px;
+  color: purple;
+}
+
