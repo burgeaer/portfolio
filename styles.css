@@ -1,6 +1,9 @@
 body {
   background:url("red-orange-waves2.jpg");
 }
+hr {
+  color:white;
+}
 #project_title {
   font-family: Arial;
   font-weight: bold;
