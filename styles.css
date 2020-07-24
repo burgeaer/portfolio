@@ -22,15 +22,22 @@ hr {
   background-color: white;
   border-radius: 100px;
 }
+#container2 {
+  width: 600px;
+}
+
 h3 {
   color: blue;
+  margin-left: 20px;
+  padding: 25px;
 }
 p {
   color: black;
-  font-family:'Century Gothic';
+  font-family: 'Calibri';
   font-size: 18px;
   font-weight: bold;
   margin-left: 20px;
+  padding: 25px;
 }
 nav {
   list-style: none;
