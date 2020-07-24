@@ -24,7 +24,8 @@ hr {
 #container1 {
 }
 #container2 {
-  width: 900px;
+  display: block;
+  width: 700px;
 }
 
 h3 {
