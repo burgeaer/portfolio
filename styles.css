@@ -4,6 +4,7 @@ body {
 hr {
   color:white;
   width: 600px;
+  margin-right: 45px;
 }
 #project_title {
   font-family: Arial;
