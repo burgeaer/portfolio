@@ -19,6 +19,8 @@ hr {
   text-align: center;
 }
 #container1 {
+  background-color: white;
+  border-radius: 100px;
 }
 h3 {
   color: blue;
@@ -35,6 +37,7 @@ nav {
   color: white;
   word-spacing: 10px;
   text-align: center;
+  text-shadow: 2px 2px 4px #000000;
 }
 .nav {
   color: white;
