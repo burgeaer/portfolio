@@ -3,6 +3,7 @@ body {
 }
 hr {
   color:white;
+  width: 600px;
 }
 #project_title {
   font-family: Arial;
@@ -24,6 +25,7 @@ p {
   font-family:'Century Gothic';
   font-size: 18px;
   font-weight: bold;
+  margin-left: 20px;
 }
 nav {
   list-style: none;
