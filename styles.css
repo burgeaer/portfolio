@@ -44,7 +44,6 @@ p {
 .nav-pills, .nav-link.active,
 .nav-pills .show>.nav-link{
   color: purple;
-  background-color: white;
 }
 .nav-pills, .nav-link.active:hover {
   color: black;
