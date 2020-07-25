@@ -44,9 +44,11 @@ p {
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
   color: purple !important;
   background-color: white !important;
+  text-align: center !important
 }
 .nav-pills, .nav-link.active:hover {
-  color: black;
+  color: black !important;
+  text-align: center !important;
 }
 #container3 {
   margin-right: 50px;
