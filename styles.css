@@ -41,9 +41,8 @@ p {
   margin-left: 20px;
   padding: 25px;
 }
-.nav-pills, .nav-link.active,
-.nav-pills .show>.nav-link{
-  color: purple;
+.nav-link.active{
+  color: purple !important;
 }
 .nav-pills, .nav-link.active:hover {
   color: black;
