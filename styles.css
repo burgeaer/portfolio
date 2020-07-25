@@ -41,11 +41,11 @@ p {
   margin-left: 20px;
   padding: 25px;
 }
-.nav-link active {
+.nav-link.active {
   color: purple;
   background-color: white;
 }
-.nav-link active:hover {
+.nav-link.active:hover {
   color: black;
 }
 #container3 {
