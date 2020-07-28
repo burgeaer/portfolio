@@ -43,32 +43,20 @@ img {
   float: right;
 }
 @media screen and (max-width:957px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
-    header h1 {
-    clear:left;
-    padding-top: 0px;
-    }
+  
 }
 
 @media screen and (max-width: 1823px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
     
-    nav {
-        
-        height: 156px;
-    }
+   
 }
 
 @media screen and (max-width: 1068px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
     
-    nav {
-        
-        height: 200px;
-    }
+ 
 }
 
 @media screen and (max-width: 690px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
     
-    nav {
-        
-        height: 315px;
-    }
+   
 }
