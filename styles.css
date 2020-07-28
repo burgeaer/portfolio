@@ -34,7 +34,7 @@ h3 {
   margin-left: 20px;
   padding: 25px;
 }
-p {
+.col-sm p {
   color: black;
   font-family: 'Calibri';
   font-size: 18px;
