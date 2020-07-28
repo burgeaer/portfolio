@@ -1,5 +1,5 @@
 $(document).ready(function() {
   
-  $("p").fadeIn(3000);
+  $("div.col-sm p").fadeIn(3000);
 
 });
