@@ -58,8 +58,6 @@ p {
 img {
   float: right;
 }
-.col-sm p{
-}
 @media screen and (max-width:957px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
     header h1 {
     clear:left;
