@@ -23,6 +23,9 @@ h3 {
   margin-left: 20px;
   padding: 25px;
 }
+nav {
+  margin-bottom: 2.3em;
+}
 .col-sm p {
   color: black;
   font-family: 'Calibri';
