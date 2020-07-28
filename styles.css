@@ -35,7 +35,6 @@ h3 {
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
   color: purple;
   background-color: white;
-  margin-left: 80px;
 }
 .nav-pills, .nav-link.active:hover {
   color: black;
