@@ -44,7 +44,7 @@ nav {
 }
 img {
   border: 1px solid black;
-  padding: 5px;
+  margin: 5px;
 }
 @media screen and (max-width:957px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
   
