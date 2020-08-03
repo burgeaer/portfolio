@@ -43,7 +43,7 @@ nav {
   color: black;
 }
 img {
-  float: right;
+  border: 1px solid black;
 }
 @media screen and (max-width:957px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
   
