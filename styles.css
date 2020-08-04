@@ -33,9 +33,11 @@ h3 {
 nav {
   margin-bottom: -2.3rem;
 }
-.col-sm {
-  background: rgba(255, 255, 255, 0.3);
+.row {
   border-radius: 10px;
+}
+.col-sm {
+  background: rgba(255, 255, 255, 0.5);
 }
 .col-sm p {
   color: black;
