@@ -33,8 +33,7 @@ h3 {
 nav {
   margin-bottom: -2.3rem;
 }
-.row {
-  border-radius: 25px;
+#main {
   background:rgba(255,255,255,0.5);
 }
 
