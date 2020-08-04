@@ -17,13 +17,11 @@ hr {
   padding: 25px;
   text-align: center;
 }
-h4 {
+#move {
   font-family: Arial;
   font-weight: bold;
   font-size: 24px;
   color: white;
-  padding: 25px;
-  text-shadow: 2px 2px 4px #000000;
 }
 h3 {
   color: blue;
