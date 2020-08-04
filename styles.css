@@ -35,7 +35,7 @@ nav {
 }
 .col-sm {
   background: rgba(255, 255, 255, 0.3);
-  border-radius: 25px;
+  border-radius: 10px;
 }
 .col-sm p {
   color: black;
