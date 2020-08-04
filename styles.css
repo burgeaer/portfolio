@@ -17,7 +17,13 @@ hr {
   padding: 25px;
   text-align: center;
 }
-
+h4 {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 36px;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
 h3 {
   color: blue;
   margin-left: 20px;
