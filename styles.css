@@ -35,10 +35,9 @@ nav {
 }
 .row {
   border-radius: 10px;
+  background:rgba(255,255,255,0.5);
 }
-.col-sm {
-  background: rgba(255, 255, 255, 0.5);
-}
+
 .col-sm p {
   color: black;
   font-family: 'Calibri';
