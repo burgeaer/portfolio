@@ -57,6 +57,17 @@ nav {
 img {
   border: 1px solid black;
 }
+.slider {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  overflow-x: auto;
+}
+.slide {
+  width: 300px;
+  flex-shrink: 0;
+  height: 100%;
+}
 @media screen and (max-width:957px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
   
 }
