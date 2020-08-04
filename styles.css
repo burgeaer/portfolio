@@ -35,6 +35,7 @@ nav {
 .main {
   background:rgba(255,255,255,0.7);
   max-width: 2500px;
+  z-index: 50px;
 }
 
 .col-sm p {
@@ -42,6 +43,7 @@ nav {
   font-family: 'Calibri';
   font-size: 18px;
   font-weight: bold;
+  padding: 25px;
   display: none;
 }
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
