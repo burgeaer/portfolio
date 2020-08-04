@@ -22,7 +22,7 @@ h4 {
   font-weight: bold;
   font-size: 24px;
   color: white;
-  padding-bottom: 15px;
+  padding-top: 15px;
   text-shadow: 2px 2px 4px #000000;
 }
 h3 {
@@ -32,6 +32,10 @@ h3 {
 }
 nav {
   margin-bottom: -2.3rem;
+}
+.col-sm {
+  background-color: white;
+  opacity: 0.9;
 }
 .col-sm p {
   color: black;
