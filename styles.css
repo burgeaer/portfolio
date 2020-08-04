@@ -35,7 +35,7 @@ nav {
 .main {
   background:rgba(255,255,255,0.7);
   max-width: 2500px;
-
+  overflow: y-index;
 }
 
 .col-sm p {
