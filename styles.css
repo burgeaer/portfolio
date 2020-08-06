@@ -107,5 +107,7 @@ img {
 
 @media screen and (max-width: 690px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
    
-   
+   .carousel-item img {
+    width: 100%
+}
 }
