@@ -58,7 +58,7 @@ img {
   border: 1px solid black;
 }
 .slider {
-  margin-top: 40px; 
+  /* margin-top: 40px; */
   margin-bottom: 200px;
   padding: 25px;
 }
@@ -82,7 +82,7 @@ img {
 }
 
 #custCarousel .carousel-indicators li.active img {
-    opacity: 1
+    /* opacity: 1 */
 }
 
 #custCarousel .carousel-indicators li:hover img {
