@@ -93,27 +93,27 @@ img {
 }
 @media screen and (max-width:957px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
   .slider{
-    width:70%;
+    width:80%;
   }
 }
 
 @media screen and (max-width: 1823px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
     .slider{
-    width:90%;
+    width:70%;
   }
    
 }
 
 @media screen and (max-width: 1068px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
     .slider{
-    width:80%;
+    width:50%;
   }
  
 }
 
 @media screen and (max-width: 690px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
     .slider{
-    width:50%;
+    width:100%;
   }
    
 }
