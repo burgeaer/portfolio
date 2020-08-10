@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab&display=swap');
 body {
   background:url("red-orange-waves2.jpg");
 }
@@ -40,8 +41,8 @@ nav {
 
 .col-sm p {
   color: black;
-  font-family: 'Calibri';
-  font-size: 18px;
+  font-family: 'Josefin Slab', serif;
+  font-size: 22px;
   font-weight: bold;
   padding: 25px;
   display: none;
