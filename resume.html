@@ -27,17 +27,48 @@
 <div class="container main">
   <div class="row">
     <div class="col-sm">
-      <h2>Resume</h2>
+      
     </div>
     <div class="col-sm">
+      <h2 class="mx-auto d-flex justify-content-center">Resume</h2>
+      <p>This is my most recent copy of my Resume. If you have any questions for me or want to contact me fill out the form below</p>
       <p><a href="AerynBurgess.pdf"><img src="resumepreview.png" width="200px" class="mx-auto d-flex justify-content-center"/></a><span class="mx-auto d-flex justify-content-center">Click To View Resume Preview</span></p>
+  <?php
+    if($_POST["submit"]) {
+    $recipient="your@email.address";
+    $subject="Form to email message";
+    $sender=$_POST["sender"];
+    $senderEmail=$_POST["senderEmail"];
+    $message=$_POST["message"];
+
+    $mailBody="Name: $sender\nEmail: $senderEmail\n\n$message";
+
+    mail($recipient, $subject, $mailBody, "From: $sender <$senderEmail>");
+
+    $thankYou="<p>Thank you! Your message has been sent.</p>";
+}
+   <?=$thankYou ?>
+
+    <form method="post" action="contact.php">
+        <label>Name:</label>
+        <input name="sender">
+
+        <label>Email address:</label>
+        <input name="senderEmail">
+
+        <label>Message:</label>
+        <textarea rows="5" cols="20" name="message"></textarea>
+
+        <input type="submit" name="submit">
+    </form>
+
     </div>
     <div class="col-sm">
       
     </div>
   </div>
 </div>
-   
+ <footer>&copy; 2020 Created by Aeryn Burgess Using GitHub Pages </footer>  
 <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab&display=swap');
 body {
   background:url("red-orange-waves2.jpg");
 }
@@ -35,13 +36,13 @@ nav {
 .main {
   background:rgba(255,255,255,0.7);
   max-width: 2500px;
-  overflow-y: auto;
+  height: 500px;
 }
 
 .col-sm p {
   color: black;
-  font-family: 'Calibri';
-  font-size: 18px;
+  font-family: 'Josefin Slab', serif;
+  font-size: 22px;
   font-weight: bold;
   padding: 25px;
   display: none;
@@ -56,14 +57,24 @@ nav {
 img {
   border: 1px solid black;
 }
-.slider {
-   /* margin-top: 40px;
-    margin-bottom: 100px */
+.profile {
+  border: 1px solid rgba(255,255,255,0.0);
   padding: 25px;
+}
+footer {
+  text-align: center;
+  color: white;
+  background-color:rgba(0, 0, 0, 0.7);
+}
+.slider {
+  /* margin-top: 40px; */
+  padding: 50px;
+}
+.carousel-inner {
+  width: 80% !important;
 }
 .carousel-inner img {
     width: 100%;
- 
 }
 
 #custCarousel .carousel-indicators {
@@ -81,7 +92,7 @@ img {
 }
 
 #custCarousel .carousel-indicators li.active img {
-    opacity: 1
+    /* opacity: 1 */
 }
 
 #custCarousel .carousel-indicators li:hover img {
@@ -89,14 +100,14 @@ img {
 }
 
 .carousel-item img {
-    width: 50%
+    width: 70%
 }
 @media screen and (max-width:957px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
   
 }
 
 @media screen and (max-width: 1823px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
-    
+   
    
 }
 
@@ -106,6 +117,38 @@ img {
 }
 
 @media screen and (max-width: 690px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
-    
-   
+   .slider {
+  /* margin-top: 40px; */
+  padding: 20px;
+}
+.carousel-inner img {
+    width: 150%;
+ 
+}
+
+#custCarousel .carousel-indicators {
+    position: static;
+    margin-top: 20px
+}
+
+#custCarousel .carousel-indicators li {
+    width: 150px
+}
+
+#custCarousel .carousel-indicators li img {
+    display: block;
+    opacity: 0.5
+}
+
+#custCarousel .carousel-indicators li.active img {
+    /* opacity: 1 */
+}
+
+#custCarousel .carousel-indicators li:hover img {
+    opacity: 0.75
+}
+
+.carousel-item img {
+    width: 160%
+}
 }
