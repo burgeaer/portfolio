@@ -58,7 +58,7 @@ img {
 }
 .profile {
   border: 1px solid blue;
-  padding-top: 25px;
+  padding: 25px;
 }
 footer {
   text-align: center;
