@@ -34,7 +34,7 @@ nav {
 .main {
   background:rgba(255,255,255,0.7);
   max-width: 2500px;
-  height: 800px;
+  height: 100%;
 }
 
 .col-sm p {
