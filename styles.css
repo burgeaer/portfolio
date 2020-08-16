@@ -124,7 +124,7 @@ footer {
 
 @media screen and (max-width: 690px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
   form {
-    max-width: 350px;
+    width: 50%;
   }
    .slider {
   /* margin-top: 40px; */
