@@ -31,19 +31,16 @@
       <p>This is my most recent copy of my Resume. If you have any questions for me or want to contact me fill out the form below</p>
       <p><a href="AerynBurgess.pdf"><img src="resumepreview.png" width="200px" class="mx-auto d-flex justify-content-center"/></a><span class="mx-auto d-flex justify-content-center">Click To View Resume Preview</span></p>
 
-    <div class="container" id="form">
-      <form method="post" action="contact.php">
-        <label>Name:</label>
-          <input name="sender">
-        <br>
-        <label>Email address:</label>
-          <input name="senderEmail">
-        <br>
-        <label>Message:</label>
-        <br>
-        <textarea rows="5" cols="30" name="message"></textarea>
-        <br>
-        <input type="submit" name="submit">
+  <div class="form-group">
+    <label for="inputEmail">Email address</label>
+    <input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp">
+    <small id="emailHelp" class="form-text text-muted">I'll never share your email with anyone else.</small>
+  </div>
+  <div class="form-group">
+    <label for="inputMessage">Message</label>
+    <input type="textarea" class="form-control" rows="5">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
     </form>
       </div>
     </div>
