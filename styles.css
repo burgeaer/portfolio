@@ -64,6 +64,9 @@ form {
   /*border: 1px solid black;*/
   padding: 10px;
 }
+textarea form-group {
+  height: 0px; !important
+}
 footer {
   text-align: center;
   color: white;
