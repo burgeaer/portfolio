@@ -27,8 +27,6 @@ hr {
 }
 h3 {
   color: blue;
-  margin-left: 20px;
-  padding: 25px;
 }
 nav {
   margin-bottom: -2.3rem;
@@ -63,7 +61,6 @@ img {
 }
 form {
   width: 600px;
-  height: 350px;
   border: 1px solid black;
   padding: 5px;
 }
