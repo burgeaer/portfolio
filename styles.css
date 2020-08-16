@@ -62,9 +62,14 @@ img {
   padding: 25px;
 }
 #form {
-  width: 400px;
+  width: 600px;
   height: 350px;
   border: 1px solid black;
+  padding: 5px;
+}
+label {
+  font-family: Arial, serif;
+  font-size: 14px;
 }
 footer {
   text-align: center;
