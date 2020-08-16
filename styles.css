@@ -61,7 +61,7 @@ img {
 }
 form {
   width: 600px;
-  border: 1px solid black;
+  /*border: 1px solid black;*/
   padding: 5px;
 }
 footer {
