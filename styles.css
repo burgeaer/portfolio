@@ -69,13 +69,10 @@ textarea form-group {
 }
 footer {
   text-align: center;
-  margin: auto 0;
+  margin: 0px auto;
   color: white;
   background-color:rgba(0, 0, 0, 0.7);
   width: 800px;
-  position: relative;
-  left: 0;
-  bottom: 0;
 }
 .slider {
   /* margin-top: 40px; */
