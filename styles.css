@@ -73,7 +73,8 @@ footer {
   color: white;
   background-color:rgba(0, 0, 0, 0.7);
   width: 1140px;
-  height: 200px;
+  height: 100px;
+  padding: 10px;
 }
 .slider {
   /* margin-top: 40px; */
