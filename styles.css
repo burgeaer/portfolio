@@ -74,7 +74,15 @@ footer {
   background-color:rgba(0, 0, 0, 0.7);
   width: 1140px;
   height: 100px;
-  padding: 10px;
+}
+footer a {
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+}
+footer a:hover {
+  color: purple;
+  padding: 20px;
 }
 .slider {
   /* margin-top: 40px; */
