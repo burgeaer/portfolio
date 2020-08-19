@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap')
 body {
   background:url("red-orange-waves2.jpg");
 }
@@ -36,10 +36,12 @@ nav {
   /*max-width: 2500px;
   height: 100%;*/
 }
-
+p {
+  display: inline-block !important;
+}
 .col-sm p {
   color: black;
-  font-family: 'Josefin Slab', serif;
+  font-family: 'PT Mono', monspace;
   font-size: 22px;
   font-weight: bold;
   padding: 25px;
