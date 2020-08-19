@@ -36,9 +36,6 @@ nav {
   /*max-width: 2500px;
   height: 100%;*/
 }
-p {
-  display: inline-block !important;
-}
 .col-sm p {
   color: black;
   font-family: 'PT Mono', monspace;
