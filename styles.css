@@ -72,18 +72,17 @@ footer {
   margin: 0px auto;
   color: white;
   background-color:rgba(0, 0, 0, 0.7);
-  width: 1140px;
-  height: 100px;
+  max-width: 1140px;
+  max-height: 100px;
+  padding: 25px;
 }
 footer a {
   text-decoration: none;
   color: white;
-  padding: 20px;
 }
 footer a:hover {
   text-decoration: none;
   color: pink;
-  padding: 20px;
 }
 .slider {
   /* margin-top: 40px; */
