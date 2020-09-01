@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
 body {
   background:url("red-orange-waves2.jpg");
 }
@@ -38,7 +38,7 @@ nav {
 }
 .col-sm p {
   color: black;
-  font-family: 'PT Mono', monspace;
+  font-family: 'Raleway', sans-serif;
   font-size: 20px;
   padding: 25px;
   display: none;
