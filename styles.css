@@ -68,7 +68,7 @@ textarea form-group {
 }
 footer {
   text-align: center;
-  margin: 0px auto;
+  background-color:rgba(0, 0, 0, 0.7);
   color: black;
 }
 footer a {
