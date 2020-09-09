@@ -67,11 +67,14 @@ textarea form-group {
 }
 footer {
   text-align: center;
-  color: black;
+  color: white;
+  background-color: black;
+  margin-left: -15px;
+  margin-right: -15px;
 }
 footer a {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 footer a:hover {
   text-decoration: none;
