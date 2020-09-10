@@ -133,9 +133,9 @@ footer a:hover {
 
 @media screen and (max-width: 690px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
   col-sm p {
-  margin: 40px;
-  display: inline-block;
-  width: 80%;
+  margin: 0px auto;
+  padding: 0px auto;
+  float: clear;
   }
   
   form {
