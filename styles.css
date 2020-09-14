@@ -132,12 +132,12 @@ footer a:hover {
 }
 
 @media screen and (max-width: 690px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
-  col-sm p {
-  margin: 0px auto;
-  padding: 0px auto;
-  display: inline-block;
+  hr {
+    max-width: 400px;
   }
-  
+  .profile {
+  float:clear;
+  }
   form {
     width: 80%;
   }
