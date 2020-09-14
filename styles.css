@@ -136,12 +136,18 @@ footer a:hover {
   hr {
     max-width: 400px;
   }
+  h3 {
+    text-align: center;
+  }
   .profile {
   float: none;
   margin: 0px auto;
   }
   form {
     width: 80%;
+  }
+  button {
+    margin-left: 30px;
   }
    .slider {
   /* margin-top: 40px; */
