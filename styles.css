@@ -136,7 +136,9 @@ footer a:hover {
     max-width: 400px;
   }
   .profile {
-  float:clear;
+  float: clear;
+  margin: 0px auto;
+  padding: 0px auto;
   }
   form {
     width: 80%;
