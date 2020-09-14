@@ -26,7 +26,8 @@ hr {
   text-shadow: 2px 2px 4px #000000;
 }
 h3 {
-  color: blue;
+  color: black;
+  text-shadow: 2px 2px 4px #ffffff;
 }
 nav {
   margin-bottom: -2.3rem;
@@ -63,8 +64,8 @@ form {
   width: 100%;
   padding: 10px;
 }
-textarea form-group {
-  height: 0px; !important
+button {
+  background-color: purple;
 }
 footer {
   text-align: center;
