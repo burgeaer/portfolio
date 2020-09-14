@@ -27,7 +27,7 @@ hr {
 }
 h3 {
   color: black;
-  text-shadow: 2px 2px 4px #ffffff;
+  text-shadow: 2px 2px 4px #000000;
 }
 nav {
   margin-bottom: -2.3rem;
@@ -65,7 +65,7 @@ form {
   padding: 10px;
 }
 button {
-  background-color: purple;
+  background-color: purple !important;
 }
 footer {
   text-align: center;
