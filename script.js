@@ -1,5 +1,3 @@
-$(document).ready(function() {
-  
-  $("p").fadeIn(3000);
-
+$(function () {
+$("#mdb-lightbox-ui").load("mdb-addons/mdb-lightbox-ui.html");
 });
