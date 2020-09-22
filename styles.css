@@ -98,12 +98,13 @@ footer a:hover {
 }	
 
 #custCarousel .carousel-indicators {	
-    color: yellow;
+    
     position: static;	
     margin-top: 20px	
 }	
 
 #custCarousel .carousel-indicators li {	
+    color: blue;
     width: 100px	
 }	
 
