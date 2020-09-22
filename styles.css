@@ -89,7 +89,9 @@ footer a:hover {
   /* margin-top: 40px; */
   padding: 50px;
 }
-
+.carousel-control-next-icon {
+  color: blue;
+}
 .carousel-inner {	
   width: 80% !important;	
 }	
@@ -104,7 +106,6 @@ footer a:hover {
 }	
 
 #custCarousel .carousel-indicators li {	
-    color: blue;
     width: 100px	
 }	
 
