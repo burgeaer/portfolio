@@ -26,7 +26,8 @@ hr {
   text-shadow: 2px 2px 4px #000000;
 }
 #story {
-  float: center;
+  float: right;
+  margin-left: 100px;
 }
 h3 {
   color: black;
