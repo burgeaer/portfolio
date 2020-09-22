@@ -112,7 +112,7 @@ footer a:hover {
 }	
 
 #custCarousel .carousel-indicators li.active img {	
-    /* opacity: 1 */	
+    opacity: 1 
 }	
 
 
@@ -179,7 +179,7 @@ footer a:hover {
 }	
 
 #custCarousel .carousel-indicators li.active img {	
-    /* opacity: 1 */	
+    opacity: 1 
 }	
 
 #custCarousel .carousel-indicators li:hover img {	
