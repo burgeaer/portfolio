@@ -151,7 +151,7 @@ footer a:hover {
     margin-left: 0px;
   }
   .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
-    max-width: 100px;
+    width: none;
   }
   h3 {
     text-align: center;
