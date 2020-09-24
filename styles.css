@@ -50,7 +50,7 @@ nav {
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
   color: purple;
   background-color: white;
-  width:50px;
+  width:150px;
 }
 .nav-pills, .nav-link.active:hover {
   color: black;
