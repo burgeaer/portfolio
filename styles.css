@@ -40,16 +40,17 @@ nav {
   /*max-width: 2500px;
   height: 100%;*/
 }
-.col-sm p {
+ p {
   color: black;
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
-  padding: 10px;
+  padding: 20px;
   margin-bottom: 0px !important;
 }
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
   color: purple;
   background-color: white;
+  width:50px;
 }
 .nav-pills, .nav-link.active:hover {
   color: black;
