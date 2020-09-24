@@ -56,6 +56,9 @@ nav {
 .nav-pills, .nav-link.active:hover {
   color: black;
 }
+#mobile {
+  display: none;
+}
 img {
   border: 1px solid black;
 }
@@ -149,6 +152,9 @@ footer a:hover {
   }
   #story {
     margin-left: 0px;
+  }
+  #desktop {
+    display: none;
   }
   .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
     width: unset;
