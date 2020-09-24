@@ -50,6 +50,7 @@ nav {
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
   color: purple;
   background-color: white;
+  text-align:center;
   width:200px;
 }
 .nav-pills, .nav-link.active:hover {
