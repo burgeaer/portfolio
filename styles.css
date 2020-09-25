@@ -92,8 +92,8 @@ footer a:hover {
 }
 .slider {
   /* margin-top: 40px; */
-  padding: 50px;
-  background-color: black;
+  padding: 20px;
+  background-color: white;
 }
 .carousel-inner {	
   width: 80% !important;	
