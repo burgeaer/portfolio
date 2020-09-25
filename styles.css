@@ -93,15 +93,13 @@ footer a:hover {
 .slider {
   /* margin-top: 40px; */
   padding: 50px;
-}
-.carousel-control-next-icon {
-  color: blue;
+  background-color: black;
 }
 .carousel-inner {	
   width: 80% !important;	
 }	
 .carousel-inner img {	
-    width: 100%;	
+    width: 150%;	
 }	
 
 #custCarousel .carousel-indicators {	
@@ -129,7 +127,7 @@ footer a:hover {
 }	
 
 .carousel-item img {	
-    width: 70%	
+    width: 150%	
 }
 
 @media screen and (max-width:957px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
