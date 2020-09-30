@@ -47,11 +47,11 @@ nav {
   font-size: 20px;
   margin-bottom: 0px !important;
 }
-#deco a {
+ a {
   text-decoration: none;
   color:black;
 }
-#deco a:hover {
+ a:hover {
   text-decoration: none;
   color: yellow;
 }
