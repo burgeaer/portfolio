@@ -47,6 +47,13 @@ nav {
   font-size: 20px;
   margin-bottom: 0px !important;
 }
+#deco {
+  text-decoration: none;
+  color:black;
+}
+#deco a:hover {
+  color: yellow;
+}
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
   color: purple;
   background-color: white;
