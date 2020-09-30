@@ -53,7 +53,7 @@ nav {
 }
  a:hover {
   text-decoration: none;
-  color: yellow;
+  color: #e85474;
 }
 
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
