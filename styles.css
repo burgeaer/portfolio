@@ -80,8 +80,8 @@ footer {
   text-align: center;
   color: black;
   /*background-color: #e57eb0;*/
-  background-color: #ca7748;
-  opacity: 0.7;
+  /*background-color: #ca7748; */
+  background-color: white;
   font-weight: bold;
   margin-left: -15px;
   margin-right: -15px;
@@ -92,7 +92,7 @@ footer a {
 }
 footer a:hover {
   text-decoration: none;
-  color: #f3ff4a;
+  color: #e57eb0;
 }
 .slider {
   /* margin-top: 40px; */
