@@ -79,8 +79,8 @@ button {
 footer {
   text-align: center;
   color: black;
+  font-weight: italic;
   background-color: #f55f9e; 
-  font-weight: bold;
   margin-left: -15px;
   margin-right: -15px;
 }
