@@ -222,6 +222,9 @@ footer a:hover {
 .carousel-item img {	
     width: 110%	
 }
+  #resumeD {
+    display: none;
+  }
   #resumeM {
     display: block;
     width: 100px;
