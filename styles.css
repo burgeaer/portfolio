@@ -148,17 +148,20 @@ footer a:hover {
   display: none;
 }
 
-@media screen and (max-width:957px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
-  
+@media screen and (max-width:870px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
+  .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    width: unset;
+  }
 }
 
-@media screen and (max-width: 1823px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
-   
+@media screen and (max-width: 970px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
+   .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    width: unset;
+  }
    
 }
 
-@media screen and (max-width: 1068px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
-    
+@media screen and (max-width: 1070px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
  
 }
 
