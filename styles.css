@@ -232,4 +232,6 @@ footer a:hover {
     display: block;
     width: 70%;
   }
+  .ml-3, .mx-3 {
+    margin-left: 3px !important;
 }
