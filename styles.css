@@ -30,7 +30,7 @@ nav {
   margin-bottom: 0.7rem;
 }
 .main {
-  background:rgba(255,255,255,0.9);
+  background-color: #fbf6ed;
   /*max-width: 2500px;
   height: 100%;*/
 }
@@ -257,8 +257,8 @@ border-radius: 20px;
 }
 
 #button1 {
-background-color: white;
-color: black;
+background-image: linear-gradient(to bottom, gray, black);
+color: white;
 padding: 10px;
 display: block;
 width: 100px;
@@ -268,6 +268,7 @@ text-align: center;
 border-radius: 20px;
 
 }
+	
 #button1:hover {
 	color: orange;
 }
