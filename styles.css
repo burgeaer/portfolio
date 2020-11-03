@@ -186,7 +186,7 @@ background-image:linear-gradient(to bottom, gray, black);
 color: white;
 text-align: center;
 padding: 10px;
-border-radius: 20px;
+border-radius: 5px;
 }
 #button3:hover{
 	color: pink;
