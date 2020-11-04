@@ -10,6 +10,7 @@ body {
   color: white;
   padding: 25px;
   text-align: center;
+  text-shadow: 1px 1px black;
 }
 #move {
   font-family: Arial;
@@ -17,6 +18,7 @@ body {
   font-size: 28px;
   color: white;
   margin-top: -20px;
+  text-shadow: 1px 1px black;
 }
 h2 {
 	font-size: 2rem;
@@ -287,7 +289,7 @@ border-radius: 20px;
   #resumeM {
     display: block;
     width: 70%;
-	margin-left: 70px;
+	margin-left: 65px;
   }
   .ml-3, .mx-3 {
     margin-left: 3px !important;
