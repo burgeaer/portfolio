@@ -223,9 +223,6 @@ border-radius: 5px;
 }
 
 @media screen and (max-width: 770px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
-  .main {
-	  max-width: 770px;
-	}
   #story {
     margin-left: 0px;
   }
