@@ -24,7 +24,8 @@ h3 {
   color: black;
   
 }
-nav {
+.nav {
+	display: block !important;
 }
 .main {
   background-color: #fff4f3;
