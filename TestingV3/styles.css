@@ -237,9 +237,21 @@ border-radius: 5px;
   .col-sm p {
 	  margin-left: unset;
   }
-	.nav {
-		margin-left: 100px;
-	}
+#mobile_title {
+  display: block;
+  font-family: 'Handlee', cursive;
+  font-size: 36px;
+  color: #e38ead;
+  text-align: center;
+}
+#mobile_tagline {
+  display: block;
+  font-family: 'Handlee', cursive;
+  font-size: 36px;
+  color: #e38ead;
+  text-align: center;
+  
+}
 }
 
 @media screen and (max-width: 990px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
@@ -249,9 +261,22 @@ border-radius: 5px;
   .col-sm p {
 	  margin-left: unset;
 }
-	.nav {
-		margin-left: 100px;
-	}
+#mobile_title {
+  display: block;
+  font-family: 'Handlee', cursive;
+  font-size: 36px;
+  color: #e38ead;
+  text-align: center;
+}
+#mobile_tagline {
+  display: block;
+  font-family: 'Handlee', cursive;
+  font-size: 36px;
+  color: #e38ead;
+  text-align: center;
+  
+}
+	
 }
 
 @media screen and (max-width: 1199px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
@@ -261,6 +286,21 @@ border-radius: 5px;
   .col-sm p {
 	  margin-left: unset;
   }
+  #mobile_title {
+  display: block;
+  font-family: 'Handlee', cursive;
+  font-size: 36px;
+  color: #e38ead;
+  text-align: center;
+}
+#mobile_tagline {
+  display: block;
+  font-family: 'Handlee', cursive;
+  font-size: 36px;
+  color: #e38ead;
+  text-align: center;
+  
+}
  
 }
 
@@ -368,11 +408,6 @@ border-radius: 20px;
 .desktop {
 	font-size: 14px;
 }
-	.nav {
-		margin-left: 125px;
-	}
-}
-@media screen and (max-width:570px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
 	.nav {
 		margin-left: 125px;
 	}
