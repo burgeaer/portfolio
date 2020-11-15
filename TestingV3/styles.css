@@ -237,7 +237,9 @@ border-radius: 5px;
   .col-sm p {
 	  margin-left: unset;
   }
-
+	.nav {
+		margin-left: 100px;
+	}
 }
 
 @media screen and (max-width: 990px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
@@ -247,6 +249,9 @@ border-radius: 5px;
   .col-sm p {
 	  margin-left: unset;
 }
+	.nav {
+		margin-left: 100px;
+	}
 }
 
 @media screen and (max-width: 1199px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
@@ -363,10 +368,14 @@ border-radius: 20px;
 .desktop {
 	font-size: 14px;
 }
-.nav {
-	margin-left: 100px;
+	.nav {
+		margin-left: 125px;
+	}
 }
+@media screen and (max-width:570px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
+	.nav {
+		margin-left: 125px;
+	}
 }
-
 
 
