@@ -366,7 +366,7 @@ border-radius: 20px;
 	font-size: 14px;
 }
 .nav {
-	display: block !important;
+	display: inline-block !important;
 	width: unset
 }
 
