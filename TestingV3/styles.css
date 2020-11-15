@@ -233,6 +233,10 @@ border-radius: 5px;
   .col-sm p {
 	  margin-left: unset;
   }
+	.nav {
+	display: block !important;
+	width: unset;
+}
 }
 
 @media screen and (max-width: 990px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
@@ -241,6 +245,10 @@ border-radius: 5px;
   }
   .col-sm p {
 	  margin-left: unset;
+}
+	.nav {
+	display: block !important;
+	width: unset;
 }
 }
 
@@ -251,7 +259,10 @@ border-radius: 5px;
   .col-sm p {
 	  margin-left: unset;
   }
-  
+  .nav {
+	display: block !important;
+	width: unset;
+}
  
 }
 
@@ -356,6 +367,7 @@ border-radius: 20px;
 }
 .nav {
 	display: block !important;
+	width: unset
 }
 
 
