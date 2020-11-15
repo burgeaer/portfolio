@@ -257,13 +257,13 @@ border-radius: 5px;
 hr {
     max-width: 400px;
 }
-#project_title {
+#mobile_title {
   font-family: 'Handlee', cursive;
   font-size: 36px;
   color: #e38ead;
   text-align: center;
 }
-#move {
+#mobile_tagline {
   font-family: 'Handlee', cursive;
   font-size: 36px;
   color: #e38ead;
