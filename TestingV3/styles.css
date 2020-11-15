@@ -237,6 +237,9 @@ border-radius: 5px;
   .col-sm p {
 	  margin-left: unset;
   }
+	#project_title {
+	display: none;
+}
 #mobile_title {
   display: block;
   font-family: 'Handlee', cursive;
@@ -260,6 +263,9 @@ border-radius: 5px;
   }
   .col-sm p {
 	  margin-left: unset;
+}
+	#project_title {
+	display: none;
 }
 #mobile_title {
   display: block;
@@ -286,6 +292,9 @@ border-radius: 5px;
   .col-sm p {
 	  margin-left: unset;
   }
+	#project_title {
+	display: none;
+}
   #mobile_title {
   display: block;
   font-family: 'Handlee', cursive;
