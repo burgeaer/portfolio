@@ -255,6 +255,9 @@ border-radius: 5px;
   text-align: center;
   
 }
+	.nav {
+		margin-left: 125px;
+	}
 }
 
 @media screen and (max-width: 990px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
@@ -282,6 +285,9 @@ border-radius: 5px;
   text-align: center;
   
 }
+.nav {
+		margin-left: 125px;
+	}
 	
 }
 
@@ -310,6 +316,9 @@ border-radius: 5px;
   text-align: center;
   
 }
+	.nav {
+		margin-left: 125px;
+	}
  
 }
 
