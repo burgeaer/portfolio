@@ -354,7 +354,9 @@ border-radius: 20px;
 .desktop {
 	font-size: 14px;
 }
-
+.nav {
+	display: block !important;
+}
 
 
 
