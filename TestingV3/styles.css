@@ -230,97 +230,7 @@ border-radius: 5px;
 	margin-top: 91px;
 	padding: 5px;
 }
-@media screen and (max-width:870px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
-  .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
-    width: unset;
-  }
-  .col-sm p {
-	  margin-left: unset;
-  }
-	#project_title {
-	display: none;
-}
-#mobile_title {
-  display: block;
-  font-family: 'Handlee', cursive;
-  font-size: 36px;
-  color: #e38ead;
-  text-align: center;
-}
-#mobile_tagline {
-  display: block;
-  font-family: 'Handlee', cursive;
-  font-size: 36px;
-  color: #e38ead;
-  text-align: center;
-  
-}
-	.nav {
-		margin-left: 185px;
-	}
-}
 
-@media screen and (max-width: 990px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
-   .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
-    width: unset;
-  }
-  .col-sm p {
-	  margin-left: unset;
-}
-	#project_title {
-	display: none;
-}
-#mobile_title {
-  display: block;
-  font-family: 'Handlee', cursive;
-  font-size: 36px;
-  color: #e38ead;
-  text-align: center;
-}
-#mobile_tagline {
-  display: block;
-  font-family: 'Handlee', cursive;
-  font-size: 36px;
-  color: #e38ead;
-  text-align: center;
-  
-}
-.nav {
-		margin-left: 185px;
-	}
-	
-}
-
-@media screen and (max-width: 1199px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
-    .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
-    width: unset;
-  }
-  .col-sm p {
-	  margin-left: unset;
-  }
-	#project_title {
-	display: none;
-}
-  #mobile_title {
-  display: block;
-  font-family: 'Handlee', cursive;
-  font-size: 36px;
-  color: #e38ead;
-  text-align: center;
-}
-#mobile_tagline {
-  display: block;
-  font-family: 'Handlee', cursive;
-  font-size: 36px;
-  color: #e38ead;
-  text-align: center;
-  
-}
-	.nav {
-		margin-left: 185px;
-	}
- 
-}
 
 @media screen and (max-width: 770px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
 hr {
@@ -430,5 +340,99 @@ border-radius: 20px;
 		margin-left: 125px;
 	}
 }
+@media screen and (max-width:870px) { /* , (-webkit-min-device-pixel-ratio: 2)*/
+  .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    width: unset;
+  }
+  .col-sm p {
+	  margin-left: unset;
+  }
+	#project_title {
+	display: none;
+}
+#mobile_title {
+  display: block;
+  font-family: 'Handlee', cursive;
+  font-size: 36px;
+  color: #e38ead;
+  text-align: center;
+}
+#mobile_tagline {
+  display: block;
+  font-family: 'Handlee', cursive;
+  font-size: 36px;
+  color: #e38ead;
+  text-align: center;
+  
+}
+	.nav {
+		margin-left: 185px;
+	}
+}
+
+
+
+
+@media screen and (max-width: 990px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
+   .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    width: unset;
+  }
+  .col-sm p {
+	  margin-left: unset;
+}
+	#project_title {
+	display: none;
+}
+#mobile_title {
+  display: block;
+  font-family: 'Handlee', cursive;
+  font-size: 36px;
+  color: #e38ead;
+  text-align: center;
+}
+#mobile_tagline {
+  display: block;
+  font-family: 'Handlee', cursive;
+  font-size: 36px;
+  color: #e38ead;
+  text-align: center;
+  
+}
+.nav {
+		margin-left: 185px;
+	}
+	
+}
+@media screen and (max-width: 1199px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
+    .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    width: unset;
+  }
+  .col-sm p {
+	  margin-left: unset;
+  }
+	#project_title {
+	display: none;
+}
+  #mobile_title {
+  display: block;
+  font-family: 'Handlee', cursive;
+  font-size: 36px;
+  color: #e38ead;
+  text-align: center;
+}
+#mobile_tagline {
+  display: block;
+  font-family: 'Handlee', cursive;
+  font-size: 36px;
+  color: #e38ead;
+  text-align: center;
+  
+}
+	.nav {
+		margin-left: 185px;
+	}
+ 
+}
+
 
 
