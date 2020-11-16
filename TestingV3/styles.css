@@ -3,6 +3,7 @@
 body {
   /*background:url("red-orange-waves2.jpg");*/
    background-color: #fff4f3;
+   max-width: 1200px;
 }
 
 #project_title {
