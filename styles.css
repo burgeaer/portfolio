@@ -277,7 +277,8 @@ h3 {
 .profile {
   float: none;
   margin: 0px auto;
-  margin-left: 35px;
+  margin-left: auto;
+	
 }
 .slider {
 	display: none;
