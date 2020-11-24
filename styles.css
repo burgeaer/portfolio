@@ -234,7 +234,7 @@ border-radius: 5px;
 .dropdown {
 	display: none;
 }
-@media screen and (max-width: 770px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
+@media screen and (max-width: 570px){  /* , (-webkit-min-device-pixel-ratio: 2)*/
 hr {
     max-width: 400px;
 }
@@ -277,7 +277,7 @@ h3 {
 .profile {
   float: none;
   margin: 0px auto;
-  margin-left: 55px;
+  margin-left: 45px;
 	
 }
 .slider {
